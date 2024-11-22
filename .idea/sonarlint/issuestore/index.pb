@@ -11,3 +11,10 @@ L
 contracts/reward-system.clar,4/d/4d17c80908c6e2c5a446b328ccf099f4dbae42d9
 Q
 !contracts/session-management.clar,2/3/2399ae9097fa8f2885d99796a409b7bcfbe5bae5
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
