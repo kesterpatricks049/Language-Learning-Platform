@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/reward-system.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.session-management]
+path = 'contracts/session-management.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

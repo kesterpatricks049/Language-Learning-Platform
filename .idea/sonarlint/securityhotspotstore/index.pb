@@ -9,3 +9,5 @@ N
 contracts/payment-handler.clar,d/f/df106cbc3eaf7788f05d935aeaeb5b6b3f728ef5
 L
 contracts/reward-system.clar,4/d/4d17c80908c6e2c5a446b328ccf099f4dbae42d9
+Q
+!contracts/session-management.clar,2/3/2399ae9097fa8f2885d99796a409b7bcfbe5bae5
